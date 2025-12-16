@@ -1,7 +1,7 @@
-# Task1.Perform Basic Mathematical Operations
+# Task1. Perform Basic Mathematical Operations
 
-num1 = 5
-num2 = 10
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
 
 # Addition
 print(num1 + num2)
